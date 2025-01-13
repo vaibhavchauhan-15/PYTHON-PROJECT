@@ -26,7 +26,7 @@ A Python implementation of the classic Tic Tac Toe game featuring multiple play 
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/tic-tac-toe.git
+git clone https://github.com/vaibhavchauhan-15/PYTHON-PROJECT/tree/main/TicTacToe
 cd tic-tac-toe
 ```
 
@@ -115,11 +115,11 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## Author
 
-[Your Name]
+Vaibhav Chauhan
 
 ## Acknowledgments
 
-- Thanks to [contributors/inspiration if any]
+- Thanks to python world
 - Based on the classic Tic Tac Toe game
 
 ## Support
