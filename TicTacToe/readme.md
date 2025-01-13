@@ -124,4 +124,4 @@ Vaibhav Chauhan
 
 ## Support
 
-For support, issues, or suggestions, please create an issue in the GitHub repository or contact vaibhavchauhan.contact@gmail.com.
+For support, issues, or suggestions, please create an issue in the GitHub repository or contact vaibhavchauhan.contactme@gmail.com.
